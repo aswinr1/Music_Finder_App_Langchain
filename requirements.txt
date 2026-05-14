@@ -1,0 +1,8 @@
+
+streamlit
+langchain
+langchain-google-genai
+shazamio
+streamlit-mic-recorder
+Pillow
+imageio-ffmpeg
